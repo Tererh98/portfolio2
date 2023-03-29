@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Prompt&display=swap');
+
+
+
+
+
+body {
+    background-image: url(img/peakpx.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1810px;
+    background-size: cover;
+}
+
+h1 {
+    color: rgba(129, 0, 209, 0.976);
+    font-family: Chakra Petch;
+    font-size: 45px;
+    text-align: center;
+    animation: text 4s 1;
+}
+
+@keyframes text {
+    0% {
+        color: #1E2432;
+    }
+}
+
+.deskription img {
+    width: 200px;
+    border-radius: 10%;
+    box-shadow: 10px 5px 5px rgb(22, 21, 22);
+    float: right;
+    margin-right: 20px;
+}
+
+.deskription p {
+    color: aliceblue;
+    font-family: Chakra Petch;
+    float: right;
+    width: 150px;
+}
+
+h2 {
+    color: aliceblue;
+    font-family: Chakra Petch;
+    margin-left: 20px;
+}
+
+.work {
+    color: aliceblue;
+    font-family: Chakra Petch;
+}
+
+.networks {
+    margin-left: 20px;
+}
+
+.deskription2 img {
+    width: 200px;
+    border-radius: 10%;
+    box-shadow: 10px 5px 5px rgb(37, 39, 37);
+}
+
+.deskription2 p {
+    width: 200px;
+    float: left;
+    margin-left: 20px;
+
+}
+
+
+
+.photosport {
+    width: 200px;
+    border-radius: 10%;
+    box-shadow: 10px 5px 5px rgb(24, 25, 24)
+}
+
+.sportdeskription {
+    float: left;
+    width: 200px;
+    margin-left: 820px;
+}
